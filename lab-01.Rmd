@@ -38,7 +38,7 @@ visitors %>% count(attraction)
 ```
 
 ### Exercise b.
-vis
+
 *Create a frequency table by `admission` and `setting`.*
 
 ```{r Ex_b}
